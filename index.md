@@ -1,4 +1,5 @@
-## Glossary
+## Glossary  
+Please wait for entire page to load before using links.  
 * [**Lesson 1: TypeScript**](#lesson-1-typescript)  
 * [**Lesson 2: TypeScript Continued**](#lesson-2-typescript-continued)  
 
