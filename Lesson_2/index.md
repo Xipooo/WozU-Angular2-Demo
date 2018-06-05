@@ -6,7 +6,7 @@
 * [**Implementing An Interface**](#implementing-an-interface)  
 * [**Public Access Modifier**](#public-access-modifier)  
 
-[Back To Index](../)  
+[Back To Main](../)  
 
 ### Classes
 Much like classes, interfaces can also be used to extend one another. This allows you to copy the members of one interface into another and add additional to create a new interface.  

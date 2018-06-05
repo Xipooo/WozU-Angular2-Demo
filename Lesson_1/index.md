@@ -6,7 +6,7 @@
 * [**Optional Properties**](#optional-properties)  
 * [**Interfaces And Classes**](#interfaces-and-classes)  
 
-[Back To Index](../)  
+[Back To Main](../)  
 
 ### Sandbox Project  
 Now that everything is installed follow the below instructions to create a very simple project that will be used as a sandbox to play around with different TypeScript code examples.  
