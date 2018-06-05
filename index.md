@@ -1,4 +1,9 @@
-## Woz-U Angular Examples
+# Woz-U Angular Examples
+## Glossary
+* [**Lesson 1: TypeScript**](#lesson-1)
+* [**Lesson 2: **](#lesson-2)
+
+## Lesson 1
 [**Sandbox Project**](index.md#sandbox-project)  
 [**Static Typing**](#static-typing)  
 [**Common Types**](#common-types)  
