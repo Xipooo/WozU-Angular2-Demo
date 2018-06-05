@@ -1,4 +1,5 @@
 ## Lesson 1: TypeScript  
+Links may not work until entire page is loaded.  
 * [**Sandbox Project**](index.md#sandbox-project)  
 * [**Static Typing**](#static-typing)  
 * [**Common Types**](#common-types)  

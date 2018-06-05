@@ -1,5 +1,6 @@
 
 ## Lesson 2: TypeScript Continued  
+Links may not work until entire page is loaded.  
 * [**Classes**](#classes)  
 * [**Unnamed And Named Expressions**](#unnamed-and-named-expressions)  
 * [**Extending Classes**](#extending-classes)  
