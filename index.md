@@ -61,6 +61,7 @@ Much like classes, interfaces can also be used to extend one another. This allow
 ## Lesson 2: TypeScript Continued  
 * [**Classes**](#classes)  
 * [**Unnamed And Named Expressions**](#unnamed-and-named-expressions)  
+[Back To Top](#glossary)  
 
 ### Classes
 Much like classes, interfaces can also be used to extend one another. This allows you to copy the members of one interface into another and add additional to create a new interface.  
