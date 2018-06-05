@@ -8,6 +8,7 @@
 * [**Static Typing**](#static-typing)  
 * [**Common Types**](#common-types)  
 * [**Interfaces**](#interfaces)  
+* [**Optional Properties**](#optional-properties)  
 
 ### Sandbox Project  
 Now that everything is installed follow the below instructions to create a very simple project that will be used as a sandbox to play around with different TypeScript code examples.  
@@ -27,4 +28,9 @@ The most commonly used types in TypeScript include the following:
 ### Interfaces  
 Below is an example of an interface which defines what it means to be a sandwich.  
 <iframe src="https://stackblitz.com/edit/ts-interfaces?embed=1&file=index.ts&hideExplorer=1&hideNavigation=1&view=editor" width="600px" height="400px"></iframe>  
+[Back To Top](#glossary)  
+
+### Optional Properties  
+Not all properties of an interface need to be required. Some exist under certain conditions or may not be there at all. The question mark (?) is used to denote an optional property.  
+<iframe src="https://stackblitz.com/edit/ts-optional-properties?embed=1&file=index.ts&hideExplorer=1&hideNavigation=1&view=editor" width="600px" height="400px"></iframe>  
 [Back To Top](#glossary)  
