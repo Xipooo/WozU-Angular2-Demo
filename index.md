@@ -8,6 +8,7 @@
 * [**Common Types**](#common-types)  
 * [**Interfaces**](#interfaces)  
 * [**Optional Properties**](#optional-properties)  
+* [**Interfaces And Classes**](#interfaces-and-classes)  
 
 ### Sandbox Project  
 Now that everything is installed follow the below instructions to create a very simple project that will be used as a sandbox to play around with different TypeScript code examples.  
@@ -37,4 +38,12 @@ Not all properties of an interface need to be required. Some exist under certain
 ### Interfaces And Classes  
 The most common use of an interface in other strongly typed languages like C# and Java is to enforce that a class meets a particular structure. In TypeScript and Interface can be used in the same way as shown in the example below.  
 <iframe src="https://stackblitz.com/edit/ts-interfaces-classes-pt1?embed=1&file=index.ts&hideExplorer=1&hideNavigation=1&view=editor" width="600px" height="400px"></iframe>  
+[Back To Top](#glossary)  
+
+You can also describe methods in an interface to be implemented by the class. Below the Interfaces and class have been updated to include a method that prints the date in a clean format.  
+<iframe src="https://stackblitz.com/edit/ts-interfaces-classes-pt2?embed=1&file=index.ts&hideExplorer=1&hideNavigation=1&view=editor" width="600px" height="400px"></iframe>  
+[Back To Top](#glossary)  
+
+Much like classes, interfaces can also be used to extend one another. This allows you to copy the members of one interface into another and add additional to create a new interface.  
+<iframe src="https://stackblitz.com/edit/ts-interfaces-classes-pt3?embed=1&file=index.ts&hideExplorer=1&hideNavigation=1&view=editor" width="600px" height="400px"></iframe>  
 [Back To Top](#glossary)  
