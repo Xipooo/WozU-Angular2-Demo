@@ -1,4 +1,3 @@
-# Woz-U Angular Examples
 ## Glossary
 * [**Lesson 1: TypeScript**](#lesson-1)  
 * [**Lesson 2: **](#lesson-2)
@@ -17,7 +16,7 @@ Now that everything is installed follow the below instructions to create a very 
 
 ### Static Typing  
 The variables below have type declarations that are specifying the type to be used by the variable. If the value were changed, it would need to correspond to the type specified.  
-<iframe src="https://stackblitz.com/edit/ts-static-typing?embed=1&file=index.ts&hideNavigation=1&view=editor" width="600px" height="400px"></iframe>  
+<iframe src="https://stackblitz.com/edit/ts-static-typing?embed=1&file=index.ts&hideExplorer=1&hideNavigation=1&view=editor" width="600px" height="400px"></iframe>  
 [Back To Top](#glossary)  
 
 ### Common Types   
