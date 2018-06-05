@@ -2,6 +2,7 @@
 ## Lesson 2: TypeScript Continued  
 * [**Classes**](#classes)  
 * [**Unnamed And Named Expressions**](#unnamed-and-named-expressions)  
+
 [Back To Index](../)  
 
 ### Classes
