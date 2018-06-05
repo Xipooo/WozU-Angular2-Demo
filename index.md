@@ -1,6 +1,6 @@
 ## Woz-U Angular Examples
-[**Sandbox Project**]("#Sandbox-Project")  
-[**Static Typing**]("#Static-Typing")  
+[**Sandbox Project**](#Sandbox-Project)  
+[**Static Typing**](#Static-Typing)  
 
 ____
 #Sandbox Project
