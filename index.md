@@ -71,3 +71,6 @@ Much like classes, interfaces can also be used to extend one another. This allow
 A class expression can be done in one of two ways, named or unnamed.  
 <iframe src="https://stackblitz.com/edit/ts-unnamed-class-expression?embed=1&file=index.ts&hideExplorer=1&hideNavigation=1&view=editor" width="600px" height="400px"></iframe>  
 <iframe src="https://stackblitz.com/edit/ts-named-class-expression?embed=1&file=index.ts&hideExplorer=1&hideNavigation=1&view=editor" width="600px" height="400px"></iframe>  
+[Back To Top](#glossary)  
+[Back To Lesson 2](#lesson-2-typescript-continued)  
+
