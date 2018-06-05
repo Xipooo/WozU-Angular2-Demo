@@ -5,6 +5,7 @@
 * [**Extending Classes**](#extending-classes)  
 * [**Implementing An Interface**](#implementing-an-interface)  
 * [**Public Access Modifier**](#public-access-modifier)  
+* [**Private Access Modifier**](#private-access-modifier)  
 
 [Back To Main](../)  
 
