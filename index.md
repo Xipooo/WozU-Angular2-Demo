@@ -1,5 +1,5 @@
 ## Glossary
-* [**Lesson 1: TypeScript**](#lesson-1)  
+* [**Lesson 1: TypeScript**](#lesson-1-typescript)  
 * [**Lesson 2: **](#lesson-2)
 
 ## Lesson 1: TypeScript  
